@@ -1,6 +1,6 @@
 package Inline::Nouse;
 
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 require Inline;
 require Inline::Interp;
@@ -89,6 +89,6 @@ L<Inline::Interp>
 
 L<Language::Nouse>
 
-L<http://www.geocities.com/qpliu/nouse/nouse.html>
+L<http://code.iamcal.com/docs/nouse.html>
 
 =cut
